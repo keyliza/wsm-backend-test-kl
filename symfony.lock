@@ -88,8 +88,14 @@
     "friendsofphp/proxy-manager-lts": {
         "version": "v1.0.5"
     },
+    "jean85/pretty-package-versions": {
+        "version": "2.0.4"
+    },
     "laminas/laminas-code": {
         "version": "4.4.2"
+    },
+    "mongodb/mongodb": {
+        "version": "1.9.0"
     },
     "monolog/monolog": {
         "version": "2.3.2"
